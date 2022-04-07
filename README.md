@@ -1,11 +1,6 @@
 # WebUI
 
 ## ABOUT
-This is my first project on GitHub. Have fun!
+This is my first repository on GitHub. Have fun!
 
-Wir sind die besten
-und coolsten
-
-Wir sind die besten.
-Sucuk schmeckt
 
